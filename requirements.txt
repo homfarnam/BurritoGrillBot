@@ -1,0 +1,7 @@
+Pillow==5.0.0
+pkg-resources==0.0.0
+pyTelegramBotAPI==3.6.1
+qrcode==5.3
+requests==2.7.0
+six==1.11.0
+telebot==0.0.3
